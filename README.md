@@ -31,7 +31,7 @@ I believe the next paradigm shift in AI isn't just about computational scaling, 
 
 ### 📊 GitHub Stats
 
-![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=seasideGargantua&show_icons=true&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
 
 ### 📫 Let's Connect
 
