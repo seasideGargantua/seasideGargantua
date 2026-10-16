@@ -13,7 +13,7 @@
 
 ---
 
-I'm a master's student at **Zhejiang University**, driven by a question: **what gives rise to intelligence?**
+I'm a PhD student at **Zhejiang University**, driven by a question: **what gives rise to intelligence?**
 
 My long-term research direction is **recursive self-improvement (RSI)**. I want to understand how intelligent systems could improve their own capabilities—and the processes that enable further improvement.
 
