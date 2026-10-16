@@ -1,4 +1,4 @@
-<h1 align="center">Qinglin Yang</h1>
+<h1 align="center">Qinglin &ldquo;Quinn&rdquo; Yang</h1>
 
 <p align="center">
   <strong>Exploring the nature of intelligence.</strong><br>
